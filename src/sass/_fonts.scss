@@ -76,3 +76,19 @@
   url('../font/fira-sans-v8-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
   url('../font/fira-sans-v8-latin-700.svg#FiraSans') format('svg'); /* Legacy iOS */
 }
+/* LobsterTwo-400 - latin */
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster Two Regular'), local('LobsterTwo-Regular'),
+  url('../font/LobsterTwo-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* LobsterTwo-400 - latin */
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lobster Two Bold'), local('LobsterTwo-Bold'),
+  url('../font/LobsterTwo-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+}
