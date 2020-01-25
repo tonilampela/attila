@@ -773,9 +773,9 @@ textarea {
 	line-height: 1em;
 	text-decoration: none;
 	color: $color-kutomo-red;
-	@media (prefers-color-scheme: dark) {
-		color: #FFF;
-	}
+//	@media (prefers-color-scheme: dark) {
+//		color: #FFF;
+//	}
 }
 
 .has-cover .blog-name {
