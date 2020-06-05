@@ -2,7 +2,7 @@
 
 A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.zutrinken.com](https://attila.zutrinken.com/)
 
-Become a financial contributor to support future development of Attila. [[Contribute](https://paypal.me/zutrinken)]
+If you like this theme and want to support future development you can become a [financial contributor](https://paypal.me/zutrinken).
 
 ## Screenshots
 
@@ -39,6 +39,10 @@ Become a financial contributor to support future development of Attila. [[Contri
 * __Romanian__ by [cdorin93](https://github.com/cdorin93)
 * __Russian__ by [schamberg97](https://github.com/schamberg97)
 * __Turkish__ by [cgrgrbz](https://github.com/cgrgrbz)
+* __Swedish__ by [martenj77](https://github.com/martenj77)
+* __Czech__ by [lunakv](https://github.com/lunakv)
+* __Portuguese__ by [matheusvanzan](https://github.com/matheusvanzan)
+* __Vietnamese__ by [JustHmmmm](https://github.com/justhmmmm)
 
 ## Setup [Disqus](https://disqus.com/)
 
@@ -60,7 +64,7 @@ The search function is build with [ghostHunter](https://github.com/jamalneufeld/
 <script>
   var ghosthunter_key = 'PASTE_THE_GENERATED_KEY_HERE';
   //optional: set your custom ghost_root url, default is "/ghost/api/v2"
-  var ghost_root_url = '/ghost/api/v3';
+  var ghost_root_url = '/ghost/api/v2';
 </script>
 ````
 ## Development

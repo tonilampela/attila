@@ -689,7 +689,8 @@ textarea {
 		z-index: 2;
 		display: block;
 		width: 100%;
-		height: auto;
+		height: 100%;
+		object-fit: cover;
 	}
 }
 /* ==========================================================================
@@ -906,12 +907,6 @@ textarea {
 				top: 2rem;
 				width: 8rem;
 				height: 8rem;
-			}
-
-			img {
-				display: block;
-				width: 100%;
-				height: auto;
 			}
 		}
 	}
@@ -1175,10 +1170,6 @@ textarea {
 		&.nav-search {
 			width: auto;
 			text-align: right;
-
-			span {
-				display: none;
-			}
 		}
 
 		&:focus,
@@ -1413,10 +1404,10 @@ textarea {
 	z-index: 1000;
 	background: transparent;
 	transition: all ease-out 0.2s;
-}
 
-.progress-container.ready {
-	transform: translateY(-3px);
+	&.complete {
+		transform: translateY(-3px);
+	}
 }
 
 .progress-bar {
@@ -1424,7 +1415,6 @@ textarea {
 	width: 0;
 	height: 3px;
 	background: $color-primary;
-	//box-shadow: 0 0 1px $color-primary, 0 0 3px $color-primary;
 }
 /* ==========================================================================
    Footer
@@ -1767,6 +1757,10 @@ textarea {
 
 			&:last-child {
 				margin-right: 0;
+			}
+
+			a {
+				height: 100%;
 			}
 		}
 	}
