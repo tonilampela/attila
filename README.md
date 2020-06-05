@@ -1,8 +1,6 @@
-# Attila
+# Attila Variation
 
-A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.zutrinken.com](https://attila.zutrinken.com/)
-
-If you like this theme and want to support future development you can become a [financial contributor](https://paypal.me/zutrinken).
+Variation of the original [Attila](https://github.com/zutrinken/attila) theme for my personal [Ghost](https://github.com/tryghost/ghost/) blog at [Kutomo.com](https://kutomo.com).
 
 ## Screenshots
 
@@ -87,4 +85,4 @@ The compress Grunt task packages the theme files into `dist/<theme-name>.zip`, w
 
 ## Copyright & License
 
-Copyright (C) 2015-2020 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
+Original theme's Copyright (C) 2015-2020 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
